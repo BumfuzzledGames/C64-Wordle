@@ -58,7 +58,6 @@
 540 MA(I)=1
 550 M=M+1
 560 NEXT I
-570 REM IF M=5 THEN 1000
 600 REM*********************
 601 REM FIND INEXACT MATCHES
 602 REM*********************
